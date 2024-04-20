@@ -1,6 +1,6 @@
 # opeanai-rag-test
 
-Testing OpenAI RAG capabilities with a Spanish Document
+Testing [OpenAI RAG capabilities](https://platform.openai.com/docs/assistants/tools/file-search/quickstart) called file search with a Spanish Document (Still in beta)
 
 This simple python programs indexes one or many documents using OpenAI's new Retrieval Augmented Generation Capabilities (RAG). This has a cost depending on the size of the document you use, and how many questions you ask.
 
